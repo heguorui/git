@@ -9,3 +9,5 @@ Creating a new branch is quick.
 One more try.
 
 Creating a new branch is quick and simple.
+
+Test merge
