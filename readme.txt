@@ -11,3 +11,6 @@ One more try.
 Creating a new branch is quick and simple.
 
 Test merge
+
+
+Test Stash
